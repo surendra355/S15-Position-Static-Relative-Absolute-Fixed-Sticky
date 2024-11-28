@@ -1,0 +1,47 @@
+.player{
+    width: 300px;
+}
+#rohitSharmaPic{
+    position: relative;
+    left: 220px;
+    z-index: 20;
+
+}
+#jadejaPic{
+    position: relative;
+    right: 450px;
+    z-index: 19;
+}
+#dhoniPic{
+    position: relative;
+    left: 400px;
+    z-index: 21;
+}
+#arjunTendulkarPic{
+    position: relative;
+    right: 260px;
+    z-index: 19;
+}
+#ruturajGaikwadPic{
+    position: relative;
+    left: 290px;
+    bottom: 305px;
+    z-index: 20;
+
+}
+.IPLLogo{
+    width: 200px;
+    position: fixed;
+    right: 0px;
+    filter: drop-shadow(10px 10px 10px black);
+    z-index: 23;
+}
+#IPLHeading{
+    background-color: orange;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    z-index: 22;
+}
+
+
